@@ -1,0 +1,24 @@
+{
+  "name": "dinesh5h02",
+  "version": "0.0.1",
+  "description": "Global Module",
+  "main": "a.js",
+  
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/dineshnarayan-27/5h0.git"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dinesh",
+    "5h0"
+  ],
+  "author": "Dinesh",
+  "license": "ISC",
+  "engines":{
+    "node":"*"
+  }
+}
